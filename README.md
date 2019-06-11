@@ -20,3 +20,6 @@ in MATLAB or add the folder containing MULAN1 to the MATLAB path.
 
 # References
 Wang HE, Bénar CG, Quilichini PP, Friston KJ, Jirsa VK, Bernard C. A systematic framework for functional connectivity measures. Front Neurosci. 2014;8(December):1-22. doi:10.3389/fnins.2014.00405. 
+
+The second MULAN study you could find it in:
+https://github.com/HuifangWang/MULANIICodes
